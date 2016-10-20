@@ -1,0 +1,5 @@
+*****   Temperaturas   *****
+Introduce la temperatura en grados celcius
+21
+La conversion a grados Farenheid es 69.80000000000001
+BUILD SUCCESSFUL (total time: 2 seconds)
